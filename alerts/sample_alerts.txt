@@ -1,0 +1,12 @@
+Alert: Multiple failed login attempts
+User: admin
+Attempts: 12
+IP: 185.220.101.12
+
+Alert: Suspicious PowerShell execution
+Process: powershell.exe
+Command: whoami
+
+Alert: Normal user login
+User: employee01
+IP: 192.168.1.10
